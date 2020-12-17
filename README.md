@@ -12,6 +12,10 @@ To complete this guide, you need to:
 
  * Edit the "conf/flyway.conf" configuration file with the appropriate details where necessary(and example of an already complete configuration file can be find into samples at the bottom, further details will be provided during the live demo)
 
+*TIP* If you add the installation directory to your path, you can run it from anywhere.
+Then also set the flyway.locations=filesystem:./ to what is given here, it will simply read the migrations from the current directory, which is quite cool.
+
+
  * Create your own database
 
  		Note: We'll  be using remotemysql, so we recommend using that one. Dont't forget to save your credentials, we'll be needing them later
