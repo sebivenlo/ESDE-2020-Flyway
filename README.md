@@ -9,6 +9,8 @@ To complete this guide, you need to:
 
  		https://flywaydb.org/documentation/usage/commandline/#download-and-installation
 
+ * Edit the "conf/flyway.conf" configuration file with the appropriate details where necessary(and example of an already complete configuration file can be find into samples at the bottom, further details would be explained during the demo)
+
  * Create your own database
 
  		Note: We'll  be using remotemysql, so we recommend using that one. Dont't forget to save your credentials, we'll be needing them later
