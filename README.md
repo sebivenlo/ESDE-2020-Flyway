@@ -1,4 +1,5 @@
 # ESDE-2020-Flyway
+The slides for this workshop will be available on this repo after the workshop ends. The demo will focus on creating a basic environment on you own machine.
 
 Flyway is an open-source, java based tool used for managing database migrations. Basically, it provides version control for your database
 

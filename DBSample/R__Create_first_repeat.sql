@@ -1,2 +1,2 @@
-CREATE OR REPLACE VIEW emp AS 
-    SELECT emp_no, last_name FROM employees;
+CREATE TABLE test (id, name, message)
+VALUES(1,"I'm just a test", "Gonna be executed")
