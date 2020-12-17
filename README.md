@@ -20,6 +20,7 @@ To complete this guide, you need to:
 * During the demo part of our workshop we will start by giving an introduction to the flyway command line tool.
 
 * Next we'll build a simple database using flyway migration as well as inserting mock-ul data.
-We will make use of version and repeatable/ undo migrations.
+
+* We will make use of version and repeatable/ undo migrations.
 
 * Finally we will test how Flyway handles migrations from different machines in paralel 
