@@ -9,7 +9,7 @@ To complete this guide, you need to:
 
  		https://flywaydb.org/documentation/usage/commandline/#download-and-installation
 
- * Edit the "conf/flyway.conf" configuration file with the appropriate details where necessary(and example of an already complete configuration file can be find into samples at the bottom, further details would be explained during the demo)
+ * Edit the "conf/flyway.conf" configuration file with the appropriate details where necessary(and example of an already complete configuration file can be find into samples at the bottom, further details will be provided during the live demo)
 
  * Create your own database
 
